@@ -1,8 +1,12 @@
-title: duplicate-costumes
+title: Duplicate costumes in Scratch
 hero_image: images/banner.png
-subtitle: duplicate-costumes subtitle
-description: duplicate-costumes description
-published: false
+description: How to duplicate costumes in Scratch
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "scratch"
 steps:
-  - title: Step one
-    duration: 60
+  - title: Duplicating costumes
